@@ -13,6 +13,9 @@ int main() {
 
   // Área para entrada de dados
 
+  printf("Cidade: \n");
+  scanf("%s", nome);
+
   // Área para exibição dos dados da cidade
 
 return 0;
